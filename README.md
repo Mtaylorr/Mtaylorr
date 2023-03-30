@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdi Cheikh Rouhou
 - 👀 I’m interested in Competitive programming and software engineering
-- 🌱 I’m currently a freshly graduated student in computer science
+- 🌱 I’m currently working as a software engineer at Odoo
 
 
 <!---
